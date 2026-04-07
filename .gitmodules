@@ -1,0 +1,9 @@
+[submodule "attack-simulation"]
+	path = attack-simulation
+	url = https://github.com/tomasandel/dp-attack-simulation.git
+[submodule "ct-log"]
+	path = ct-log
+	url = https://github.com/tomasandel/dp-ct-log.git
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/tomasandel/dp-proxy.git
